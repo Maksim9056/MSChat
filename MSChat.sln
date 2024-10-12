@@ -14,7 +14,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Tbot", "Client_Tbot\Client_Tbot.csproj", "{75D8D695-F6CE-4985-8A7E-1F731864B834}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client_Tbot", "Client_Tbot\Client_Tbot.csproj", "{75D8D695-F6CE-4985-8A7E-1F731864B834}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{A41CACD3-AB61-40EF-9169-4A5C1059D33F}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

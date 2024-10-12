@@ -65,6 +65,7 @@ namespace Class_chat
         /// Отправки в телеграм в чат
         /// </summary>
         public static MsgInfo Travel_Telegram_message { get; set; }
+
         //Функция считывания байт из потока и формирование единой строки
         public string Func_Read(Stream str, int length, TcpClient client)
         {
